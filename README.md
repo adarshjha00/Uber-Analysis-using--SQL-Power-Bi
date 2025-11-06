@@ -57,11 +57,75 @@ Donut chart: Booking by vehicle type
 
 3. Cancellation Page
 ![Cancellation Page](images/Cancellation_page.png)
+
+Key Features:
+
+KPIs:
+Total Cancelled Rides: 38k
+
+Cancelled by Customers: 11k
+
+Cancelled by Drivers: 27k
+
+Total Incomplete Rides: ~8994
+
+Visualizations:
+
+Table: Booking status, cancellation reasons, and count
+
+Column chart: Rides cancelled by day (avg 4.1 k driver cancellations, 1.5 k customer cancellations)
+
+Line chart: Cancellations over months by driver and customer
+
+Donut chart: Cancellations by vehicle type (Auto & Mini dominate)
+
+
 4. Performance Page
 ![Performance Page](images/Performance_Page.png)
+
+Key Features:
+
+KPIs:
+
+Avg Driver Arrival Time: 8.0 mins
+
+Avg Trip Duration: 23.02 mins
+
+Avg Ride Distance: 31.15 km
+
+On-time Pickups: 41k
+
+Visualizations:
+
+Line chart: Avg arrival time by month (Oct & Dec highest)
+
+Donut chart: Rides cancelled by vehicle type
+
+Map: Locations with high arrival times
+
+Column chart: Avg trip duration by vehicle type
+
 5. Revenue & Payment Page
 ![Revenue Page](images/Revenue_Page.png)
-6. Customer & Driver Ratings Page
+
+Key Features:
+
+KPIs:
+
+Total Revenue: 61.17M
+
+Most used Payment Method: UPI
+
+Day generating most revenue: Sunday
+
+Visualizations:
+
+Line chart: Revenue over months (March: 5.36M, Jan: 5.46M)
+Donut chart: Revenue by payment method
+Funnel chart: Revenue by hour (6 PM highest)
+Bar chart: Revenue by vehicle type
+
+8. Customer & Driver Ratings Page
 ![Customer Page](images/Customer_Page.png)
 
 
