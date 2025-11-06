@@ -12,6 +12,7 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 Key Features:
 
 KPIs
+
 Total Sales: 64.17M
 
 Total Rides: 93k
