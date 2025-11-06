@@ -35,6 +35,26 @@ Bar chart: Most commonly used payment method (UPI: 42k, Uber Wallet: 24k)
 
 2. Bookings & Trends Page
 ![Booking Page](images/Booking_Page.png)
+
+Key Features:
+
+KPIs:
+
+Completed Rides: 93k
+
+Pending Rides: ~ 8994
+
+Visualizations:
+
+Column chart: Bookings by month, weekdays vs weekends (avg 9.5k weekday rides, 3.5k weekend)
+
+Bar chart: Booking status (Completed: 93k, Cancelled by Driver: 27k, Cancelled by Customer: 11k)
+
+Histogram: Bookings by ride distance (highest between 10-40 km)
+
+Donut chart: Booking by vehicle type
+
+
 3. Cancellation Page
 ![Cancellation Page](images/Cancellation_page.png)
 4. Performance Page
