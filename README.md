@@ -128,7 +128,7 @@ Funnel chart: Revenue by hour (6 PM highest)
 
 Bar chart: Revenue by vehicle type
 
-8. Customer & Driver Ratings Page
+6. Customer & Driver Ratings Page
 ![Customer Page](images/Customer_Page.png)
 
 Key Features:
@@ -143,6 +143,7 @@ Avg Driver Rating: 3.98
 Total Rides with 5-star: 37k
 
 Visualizations:
+
 Histogram: Customer ratings distribution (majority 4-3)
 
 Line chart: Ratings over months
