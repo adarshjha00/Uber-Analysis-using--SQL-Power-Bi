@@ -23,7 +23,7 @@ Total Customers: 148.79k
 
 Avg Trip Duration: 23.02 mins
 
-Visualizations:
+Visualizations
 
 Line chart: Rides over months (peak in January,March,July)
 
@@ -38,13 +38,13 @@ Bar chart: Most commonly used payment method (UPI: 42k, Uber Wallet: 24k)
 
 Key Features:
 
-KPIs:
+KPIs
 
 Completed Rides: 93k
 
 Pending Rides: ~ 8994
 
-Visualizations:
+Visualizations
 
 Column chart: Bookings by month, weekdays vs weekends (avg 9.5k weekday rides, 3.5k weekend)
 
@@ -60,7 +60,7 @@ Donut chart: Booking by vehicle type
 
 Key Features:
 
-KPIs:
+KPIs
 Total Cancelled Rides: 38k
 
 Cancelled by Customers: 11k
@@ -69,7 +69,7 @@ Cancelled by Drivers: 27k
 
 Total Incomplete Rides: ~8994
 
-Visualizations:
+Visualizations
 
 Table: Booking status, cancellation reasons, and count
 
@@ -85,7 +85,7 @@ Donut chart: Cancellations by vehicle type (Auto & Mini dominate)
 
 Key Features:
 
-KPIs:
+KPIs
 
 Avg Driver Arrival Time: 8.0 mins
 
@@ -95,7 +95,7 @@ Avg Ride Distance: 31.15 km
 
 On-time Pickups: 41k
 
-Visualizations:
+Visualizations
 
 Line chart: Avg arrival time by month (Oct & Dec highest)
 
@@ -110,7 +110,7 @@ Column chart: Avg trip duration by vehicle type
 
 Key Features:
 
-KPIs:
+KPIs
 
 Total Revenue: 61.17M
 
@@ -118,7 +118,7 @@ Most used Payment Method: UPI
 
 Day generating most revenue: Sunday
 
-Visualizations:
+Visualizations
 
 Line chart: Revenue over months (March: 5.36M, Jan: 5.46M)
 
@@ -132,7 +132,8 @@ Bar chart: Revenue by vehicle type
 ![Customer Page](images/Customer_Page.png)
 
 Key Features:
-KPIs:
+
+KPIs
 
 Total Customers: 148.79k
 
@@ -142,7 +143,7 @@ Avg Driver Rating: 3.98
 
 Total Rides with 5-star: 37k
 
-Visualizations:
+Visualizations
 
 Histogram: Customer ratings distribution (majority 4-3)
 
@@ -167,6 +168,7 @@ Tree map: Ratings by vehicle type
 . PowerPoint: Used for project presentation and summarizing dashboard insights.
 
 . GitHub: For hosting project files, screenshots, and documentation.
+
 
 🔗 Conclusion
 
