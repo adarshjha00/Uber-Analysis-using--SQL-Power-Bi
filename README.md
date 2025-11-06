@@ -8,6 +8,30 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 
 1. Overview Page
 ![Overview Page](images/Overview_Page.png)
+
+Key Features:
+
+KPIs:
+
+Total Sales: 64.17M
+
+Total Rides: 93k
+
+Avg Ride Distance: 31.15 km
+
+Total Customers: 148.79k
+
+Avg Trip Duration: 23.02 mins
+
+Visualizations:
+Line chart: Rides over months (peak in January,May, July)
+
+Map: Most common pickup locations
+
+Donut chart: Rides by vehicle type (Auto: 23.2k, Go Mini: 18.6k)
+
+Bar chart: Most commonly used payment method (UPI: 42k, Uber Wallet: 24k)
+
 2. Bookings & Trends Page
 ![Booking Page](images/Booking_Page.png)
 3. Cancellation Page
