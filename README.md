@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 2. Bookings & Trends Page
 ![Booking Page](images/Booking_Page.png)
 3. Cancellation Page
-![Cancellation Page](images/Cancellation_Page.png)
+![Cancellation Page](images/Cancellation_page.png)
 4. Performance Page
 ![Performance Page](images/Performance_Page.png)
 5.Revenue & Payment Page
