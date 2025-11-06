@@ -20,11 +20,17 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 
 🧰 Tools & Technologies Used
 . Power BI Desktop: For data modeling, data transformation, and creating interactive dashboards.
+
 . DAX (Data Analysis Expressions): Used to build calculated columns, measures, and KPIs for performance analysis.
+
 . MySQL: Used for data extraction and advanced SQL queries to analyze ride data before visualization.
+
 . Microsoft Excel: Used for initial data creation, cleaning, and minor transformations.
+
 . Kaggle Dataset: Provided raw Uber ride data (~1.5 lakh rows) for analysis.
+
 . PowerPoint: Used for project presentation and summarizing dashboard insights.
+
 . GitHub: For hosting project files, screenshots, and documentation.
 
 🔗 Conclusion
