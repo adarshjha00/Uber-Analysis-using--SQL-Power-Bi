@@ -5,3 +5,8 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 
 🔗 Pages & Features
 1. Overview Page
+![Overview Page](images/Overview_Page.png)
+2. Bookings & Trends Page
+![Booking Page](images/Booking_Page.png)
+
+
