@@ -11,8 +11,7 @@ This project provides a comprehensive analysis of Uber ride data for the NCR reg
 
 Key Features:
 
-KPIs:
-
+KPIs
 Total Sales: 64.17M
 
 Total Rides: 93k
@@ -24,7 +23,8 @@ Total Customers: 148.79k
 Avg Trip Duration: 23.02 mins
 
 Visualizations:
-Line chart: Rides over months (peak in January,May, July)
+
+Line chart: Rides over months (peak in January,March,July)
 
 Map: Most common pickup locations
 
